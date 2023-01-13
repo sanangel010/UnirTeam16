@@ -1,0 +1,859 @@
+[{
+        "Año": 1877,
+        "Salario mínimo nominal": "0,00022237000000000",
+        "Índice de Precios Promedio": "0,000345912968405115",
+        "Salario mínimo real": "64,28"
+    },
+    {
+        "Año": 1878,
+        "Salario mínimo nominal": "0,00022373000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": "64,28"
+    },
+    {
+        "Año": 1879,
+        "Salario mínimo nominal": "0,00022522000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1880,
+        "Salario mínimo nominal": "0,00022776000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1881,
+        "Salario mínimo nominal": "0,00023037000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1882,
+        "Salario mínimo nominal": "0,00023193000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1883,
+        "Salario mínimo nominal": "0,00023354000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1884,
+        "Salario mínimo nominal": "0,00023520000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1885,
+        "Salario mínimo nominal": "0,00023690000000000",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1886,
+        "Salario mínimo nominal": "0,00023865000000000",
+        "Índice de Precios Promedio": "0,000392236102456455",
+        "Salario mínimo real": "60,84"
+    },
+    {
+        "Año": 1887,
+        "Salario mínimo nominal": "0,00024046000000000",
+        "Índice de Precios Promedio": "0,000346416480731760",
+        "Salario mínimo real": "69,41"
+    },
+    {
+        "Año": 1888,
+        "Salario mínimo nominal": "0,00024531000000000",
+        "Índice de Precios Promedio": "0,000407844984582450",
+        "Salario mínimo real": "60,15"
+    },
+    {
+        "Año": 1889,
+        "Salario mínimo nominal": "0,00026336000000000",
+        "Índice de Precios Promedio": "0,000440573285814375",
+        "Salario mínimo real": "59,78"
+    },
+    {
+        "Año": 1890,
+        "Salario mínimo nominal": "0,00026526000000000",
+        "Índice de Precios Promedio": "0,000429496014628185",
+        "Salario mínimo real": "61,76"
+    },
+    {
+        "Año": 1891,
+        "Salario mínimo nominal": "0,00028728000000000",
+        "Índice de Precios Promedio": "0,000426978452994960",
+        "Salario mínimo real": "67,28"
+    },
+    {
+        "Año": 1892,
+        "Salario mínimo nominal": "0,00030670000000000",
+        "Índice de Precios Promedio": "0,000491931543132165",
+        "Salario mínimo real": "62,35"
+    },
+    {
+        "Año": 1893,
+        "Salario mínimo nominal": "0,00032490000000000",
+        "Índice de Precios Promedio": "0,000532212529263765",
+        "Salario mínimo real": "61,05"
+    },
+    {
+        "Año": 1894,
+        "Salario mínimo nominal": "0,00032681000000000",
+        "Índice de Precios Promedio": "0,000469273488433140",
+        "Salario mínimo real": "69,64"
+    },
+    {
+        "Año": 1895,
+        "Salario mínimo nominal": "0,00032875000000000",
+        "Índice de Precios Promedio": "0,000468769976106495",
+        "Salario mínimo real": "70,13"
+    },
+    {
+        "Año": 1896,
+        "Salario mínimo nominal": "0,00033072000000000",
+        "Índice de Precios Promedio": "0,000514589597831190",
+        "Salario mínimo real": "64,27"
+    },
+    {
+        "Año": 1897,
+        "Salario mínimo nominal": "0,00033274000000000",
+        "Índice de Precios Promedio": "0,000517610671791060",
+        "Salario mínimo real": "64,28"
+    },
+    {
+        "Año": 1898,
+        "Salario mínimo nominal": "0,00033518000000000",
+        "Índice de Precios Promedio": "0,000445608409080825",
+        "Salario mínimo real": "75,22"
+    },
+    {
+        "Año": 1899,
+        "Salario mínimo nominal": "0,00033766000000000",
+        "Índice de Precios Promedio": "0,000430503039281475",
+        "Salario mínimo real": "78,43"
+    },
+    {
+        "Año": 1900,
+        "Salario mínimo nominal": "0,00033973000000000",
+        "Índice de Precios Promedio": "0,000503512326645000",
+        "Salario mínimo real": "67,47"
+    },
+    {
+        "Año": 1901,
+        "Salario mínimo nominal": "0,00035473000000000",
+        "Índice de Precios Promedio": "0,000618313137120060",
+        "Salario mínimo real": "57,37"
+    },
+    {
+        "Año": 1902,
+        "Salario mínimo nominal": "0,00037100000000000",
+        "Índice de Precios Promedio": "0,000608242890587160",
+        "Salario mínimo real": "61,00"
+    },
+    {
+        "Año": 1903,
+        "Salario mínimo nominal": "0,00038788000000000",
+        "Índice de Precios Promedio": "0,000632914994592765",
+        "Salario mínimo real": "61,28"
+    },
+    {
+        "Año": 1904,
+        "Salario mínimo nominal": "0,00039783000000000",
+        "Índice de Precios Promedio": "0,000537751164856860",
+        "Salario mínimo real": "73,98"
+    },
+    {
+        "Año": 1905,
+        "Salario mínimo nominal": "0,00042908000000000",
+        "Índice de Precios Promedio": "0,000610760452220385",
+        "Salario mínimo real": "70,25"
+    },
+    {
+        "Año": 1906,
+        "Salario mínimo nominal": "0,00041733000000000",
+        "Índice de Precios Promedio": "0,000684273251910556",
+        "Salario mínimo real": "60,99"
+    },
+    {
+        "Año": 1907,
+        "Salario mínimo nominal": "0,00042835000000000",
+        "Índice de Precios Promedio": "0,000674203005377656",
+        "Salario mínimo real": "63,53"
+    },
+    {
+        "Año": 1908,
+        "Salario mínimo nominal": "0,00044145000000000",
+        "Índice de Precios Promedio": "0,000664132758844755",
+        "Salario mínimo real": "66,47"
+    },
+    {
+        "Año": 1909,
+        "Salario mínimo nominal": "0,00045824000000000",
+        "Índice de Precios Promedio": "0,000723043701062220",
+        "Salario mínimo real": "63,38"
+    },
+    {
+        "Año": 1910,
+        "Salario mínimo nominal": "0,00047615000000000",
+        "Índice de Precios Promedio": "0,000834319925250765",
+        "Salario mínimo real": "57,07"
+    },
+    {
+        "Año": 1911,
+        "Salario mínimo nominal": "0,00049489000000000",
+        "Índice de Precios Promedio": "0,000823242654064575",
+        "Salario mínimo real": "60,11"
+    },
+    {
+        "Año": 1912,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1913,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1914,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1915,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1916,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1917,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1918,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00225162042726973",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1919,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00180244074864032",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1920,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00188970176901100",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1921,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00172519328798431",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1922,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00144767463303492",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1923,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00155067124724294",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1924,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00148629836336293",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1925,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00155925429842694",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1926,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00153064412781361",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1927,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00149488141454693",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1928,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00143480005625892",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1929,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00143050853066692",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1930,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00143336954772826",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1931,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00128745767760023",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1932,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00118160004633088",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1933,
+        "Salario mínimo nominal": "",
+        "Índice de Precios Promedio": "0,00126313903257889",
+        "Salario mínimo real": ""
+    },
+    {
+        "Año": 1934,
+        "Salario mínimo nominal": "0,00127451612903226",
+        "Índice de Precios Promedio": "0,00130462377996823",
+        "Salario mínimo real": "97,69"
+    },
+    {
+        "Año": 1935,
+        "Salario mínimo nominal": "0,00127451612903226",
+        "Índice de Precios Promedio": "0,00129604072878423",
+        "Salario mínimo real": "98,34"
+    },
+    {
+        "Año": 1936,
+        "Salario mínimo nominal": "0,00142843750000000",
+        "Índice de Precios Promedio": "0,00138244344403651",
+        "Salario mínimo real": "103,33"
+    },
+    {
+        "Año": 1937,
+        "Salario mínimo nominal": "0,00142843750000000",
+        "Índice de Precios Promedio": "0,00164165158979336",
+        "Salario mínimo real": "87,01"
+    },
+    {
+        "Año": 1938,
+        "Salario mínimo nominal": "0,00164718750000000",
+        "Índice de Precios Promedio": "0,00172805430504564",
+        "Salario mínimo real": "95,32"
+    },
+    {
+        "Año": 1939,
+        "Salario mínimo nominal": "0,00164718750000000",
+        "Índice de Precios Promedio": "0,00172805430504564",
+        "Salario mínimo real": "95,32"
+    },
+    {
+        "Año": 1940,
+        "Salario mínimo nominal": "0,00170906250000000",
+        "Índice de Precios Promedio": "0,00172805430504564",
+        "Salario mínimo real": "98,90"
+    },
+    {
+        "Año": 1941,
+        "Salario mínimo nominal": "0,00170906250000000",
+        "Índice de Precios Promedio": "0,00185765837792406",
+        "Salario mínimo real": "92,00"
+    },
+    {
+        "Año": 1942,
+        "Salario mínimo nominal": "0,00173750000000000",
+        "Índice de Precios Promedio": "0,00203046380842863",
+        "Salario mínimo real": "85,57"
+    },
+    {
+        "Año": 1943,
+        "Salario mínimo nominal": "0,00173750000000000",
+        "Índice de Precios Promedio": "0,00250567874231618",
+        "Salario mínimo real": "69,34"
+    },
+    {
+        "Año": 1944,
+        "Salario mínimo nominal": "0,00223225806451613",
+        "Índice de Precios Promedio": "0,00311049774908215",
+        "Salario mínimo real": "71,77"
+    },
+    {
+        "Año": 1945,
+        "Salario mínimo nominal": "0,00223225806451613",
+        "Índice de Precios Promedio": "0,00336970589483900",
+        "Salario mínimo real": "66,24"
+    },
+    {
+        "Año": 1946,
+        "Salario mínimo nominal": "0,00279875000000000",
+        "Índice de Precios Promedio": "0,00388812218635269",
+        "Salario mínimo real": "71,98"
+    },
+    {
+        "Año": 1947,
+        "Salario mínimo nominal": "0,00279875000000000",
+        "Índice de Precios Promedio": "0,00410412897448340",
+        "Salario mínimo real": "68,19"
+    },
+    {
+        "Año": 1948,
+        "Salario mínimo nominal": "0,00342312500000000",
+        "Índice de Precios Promedio": "0,00432013576261410",
+        "Salario mínimo real": "79,24"
+    },
+    {
+        "Año": 1949,
+        "Salario mínimo nominal": "0,00342312500000000",
+        "Índice de Precios Promedio": "0,00457934390837095",
+        "Salario mínimo real": "74,75"
+    },
+    {
+        "Año": 1950,
+        "Salario mínimo nominal": "0,00383937500000000",
+        "Índice de Precios Promedio": "0,00522736427276306",
+        "Salario mínimo real": "73,45"
+    },
+    {
+        "Año": 1951,
+        "Salario mínimo nominal": "0,00383937500000000",
+        "Índice de Precios Promedio": "0,00648020364392116",
+        "Salario mínimo real": "59,25"
+    },
+    {
+        "Año": 1952,
+        "Salario mínimo nominal": "0,00520781250000000",
+        "Índice de Precios Promedio": "0,00673941178967800",
+        "Salario mínimo real": "77,27"
+    },
+    {
+        "Año": 1953,
+        "Salario mínimo nominal": "0,00520781250000000",
+        "Índice de Precios Promedio": "0,00660980771679958",
+        "Salario mínimo real": "78,79"
+    },
+    {
+        "Año": 1954,
+        "Salario mínimo nominal": "0,00701250000000000",
+        "Índice de Precios Promedio": "0,00712822400831327",
+        "Salario mínimo real": "98,38"
+    },
+    {
+        "Año": 1955,
+        "Salario mínimo nominal": "0,00701250000000000",
+        "Índice de Precios Promedio": "0,00816505659134066",
+        "Salario mínimo real": "85,88"
+    },
+    {
+        "Año": 1956,
+        "Salario mínimo nominal": "0,00806031250000000",
+        "Índice de Precios Promedio": "0,00859707016760207",
+        "Salario mínimo real": "93,76"
+    },
+    {
+        "Año": 1957,
+        "Salario mínimo nominal": "0,00806031250000000",
+        "Índice de Precios Promedio": "0,00911548645911576",
+        "Salario mínimo real": "88,42"
+    },
+    {
+        "Año": 1958,
+        "Salario mínimo nominal": "0,00930906250000000",
+        "Índice de Precios Promedio": "0,00941789596249875",
+        "Salario mínimo real": "98,84"
+    },
+    {
+        "Año": 1959,
+        "Salario mínimo nominal": "0,00930906250000000",
+        "Índice de Precios Promedio": "0,00941789596249875",
+        "Salario mínimo real": "98,84"
+    },
+    {
+        "Año": 1960,
+        "Salario mínimo nominal": "0,01060000000000000",
+        "Índice de Precios Promedio": "0,00993631225401244",
+        "Salario mínimo real": "106,68"
+    },
+    {
+        "Año": 1961,
+        "Salario mínimo nominal": "0,01060000000000000",
+        "Índice de Precios Promedio": "0,00993631225401244",
+        "Salario mínimo real": "106,68"
+    },
+    {
+        "Año": 1962,
+        "Salario mínimo nominal": "0,01263062500000000",
+        "Índice de Precios Promedio": "0,01006591632689090",
+        "Salario mínimo real": "125,48"
+    },
+    {
+        "Año": 1963,
+        "Salario mínimo nominal": "0,01263062500000000",
+        "Índice de Precios Promedio": "0,01028192311502160",
+        "Salario mínimo real": "122,84"
+    },
+    {
+        "Año": 1964,
+        "Salario mínimo nominal": "0,01779000000000000",
+        "Índice de Precios Promedio": "0,01080033940653530",
+        "Salario mínimo real": "164,72"
+    },
+    {
+        "Año": 1965,
+        "Salario mínimo nominal": "0,01779000000000000",
+        "Índice de Precios Promedio": "0,01088674212178750",
+        "Salario mínimo real": "163,41"
+    },
+    {
+        "Año": 1966,
+        "Salario mínimo nominal": "0,02090000000000000",
+        "Índice de Precios Promedio": "0,01110274890991820",
+        "Salario mínimo real": "188,24"
+    },
+    {
+        "Año": 1967,
+        "Salario mínimo nominal": "0,02090000000000000",
+        "Índice de Precios Promedio": "0,01118915162517050",
+        "Salario mínimo real": "186,79"
+    },
+    {
+        "Año": 1968,
+        "Salario mínimo nominal": "0,02415000000000000",
+        "Índice de Precios Promedio": "0,01140515841330120",
+        "Salario mínimo real": "211,75"
+    },
+    {
+        "Año": 1969,
+        "Salario mínimo nominal": "0,02415000000000000",
+        "Índice de Precios Promedio": "0,01179397063193650",
+        "Salario mínimo real": "204,77"
+    },
+    {
+        "Año": 1970,
+        "Salario mínimo nominal": "0,02793000000000000",
+        "Índice de Precios Promedio": "0,01238406979266830",
+        "Salario mínimo real": "225,53"
+    },
+    {
+        "Año": 1971,
+        "Salario mínimo nominal": "0,02793000000000000",
+        "Índice de Precios Promedio": "0,01238406979266830",
+        "Salario mínimo real": "225,53"
+    },
+    {
+        "Año": 1972,
+        "Salario mínimo nominal": "0,03323000000000000",
+        "Índice de Precios Promedio": "0,01306135717509800",
+        "Salario mínimo real": "254,41"
+    },
+    {
+        "Año": 1973,
+        "Salario mínimo nominal": "0,03920000000000000",
+        "Índice de Precios Promedio": "0,01370706996977480",
+        "Salario mínimo real": "285,98"
+    },
+    {
+        "Año": 1974,
+        "Salario mínimo nominal": "0,05524000000000000",
+        "Índice de Precios Promedio": "0,01536315057533020",
+        "Salario mínimo real": "359,56"
+    },
+    {
+        "Año": 1975,
+        "Salario mínimo nominal": "0,05524000000000000",
+        "Índice de Precios Promedio": "0,01901712618985020",
+        "Salario mínimo real": "290,48"
+    },
+    {
+        "Año": 1976,
+        "Salario mínimo nominal": "0,08274000000000000",
+        "Índice de Precios Promedio": "0,02185914559775480",
+        "Salario mínimo real": "378,51"
+    },
+    {
+        "Año": 1977,
+        "Salario mínimo nominal": "0,09120000000000000",
+        "Índice de Precios Promedio": "0,02531829411673380",
+        "Salario mínimo real": "360,21"
+    },
+    {
+        "Año": 1978,
+        "Salario mínimo nominal": "0,10349000000000000",
+        "Índice de Precios Promedio": "0,03267683514139720",
+        "Salario mínimo real": "316,71"
+    },
+    {
+        "Año": 1979,
+        "Salario mínimo nominal": "0,11978000000000000",
+        "Índice de Precios Promedio": "0,03838132676812260",
+        "Salario mínimo real": "312,08"
+    },
+    {
+        "Año": 1980,
+        "Salario mínimo nominal": "0,14069000000000000",
+        "Índice de Precios Promedio": "0,05731700000000000",
+        "Salario mínimo real": "245,46"
+    },
+    {
+        "Año": 1981,
+        "Salario mínimo nominal": "0,18305000000000000",
+        "Índice de Precios Promedio": "0,07332800000000000",
+        "Salario mínimo real": "249,63"
+    },
+    {
+        "Año": 1982,
+        "Salario mínimo nominal": "0,31828000000000000",
+        "Índice de Precios Promedio": "0,11652800000000000",
+        "Salario mínimo real": "273,14"
+    },
+    {
+        "Año": 1983,
+        "Salario mínimo nominal": "0,45901000000000000",
+        "Índice de Precios Promedio": "0,23524200000000000",
+        "Salario mínimo real": "195,12"
+    },
+    {
+        "Año": 1984,
+        "Salario mínimo nominal": "0,71902000000000000",
+        "Índice de Precios Promedio": "0,38920500000000000",
+        "Salario mínimo real": "184,74"
+    },
+    {
+        "Año": 1985,
+        "Salario mínimo nominal": "1,10764000000000000",
+        "Índice de Precios Promedio": "0,61396400000000000",
+        "Salario mínimo real": "180,41"
+    },
+    {
+        "Año": 1986,
+        "Salario mínimo nominal": "2,24377000000000000",
+        "Índice de Precios Promedio": "1,14341000000000000",
+        "Salario mínimo real": "196,23"
+    },
+    {
+        "Año": 1987,
+        "Salario mínimo nominal": "5,86724000000000000",
+        "Índice de Precios Promedio": "2,65073000000000000",
+        "Salario mínimo real": "221,34"
+    },
+    {
+        "Año": 1988,
+        "Salario mínimo nominal": "7,25292000000000000",
+        "Índice de Precios Promedio": "5,67686000000000000",
+        "Salario mínimo real": "127,76"
+    },
+    {
+        "Año": 1989,
+        "Salario mínimo nominal": "8,30603000000000000",
+        "Índice de Precios Promedio": "6,81268000000000000",
+        "Salario mínimo real": "121,92"
+    },
+    {
+        "Año": 1990,
+        "Salario mínimo nominal": "10,78658000000000000",
+        "Índice de Precios Promedio": "8,62837000000000000",
+        "Salario mínimo real": "125,01"
+    },
+    {
+        "Año": 1991,
+        "Salario mínimo nominal": "12,08402000000000000",
+        "Índice de Precios Promedio": "10,58380000000000000",
+        "Salario mínimo real": "114,17"
+    },
+    {
+        "Año": 1992,
+        "Salario mínimo nominal": "12,08402000000000000",
+        "Índice de Precios Promedio": "12,22510000000000000",
+        "Salario mínimo real": "98,85"
+    },
+    {
+        "Año": 1993,
+        "Salario mínimo nominal": "13,06000000000000000",
+        "Índice de Precios Promedio": "13,41720000000000000",
+        "Salario mínimo real": "97,34"
+    },
+    {
+        "Año": 1994,
+        "Salario mínimo nominal": "13,97000000000000000",
+        "Índice de Precios Promedio": "14,35180000000000000",
+        "Salario mínimo real": "97,34"
+    },
+    {
+        "Año": 1995,
+        "Salario mínimo nominal": "18,43000000000000000",
+        "Índice de Precios Promedio": "19,37490000000000000",
+        "Salario mínimo real": "95,12"
+    },
+    {
+        "Año": 1996,
+        "Salario mínimo nominal": "24,30000000000000000",
+        "Índice de Precios Promedio": "26,03560000000000000",
+        "Salario mínimo real": "93,33"
+    },
+    {
+        "Año": 1997,
+        "Salario mínimo nominal": "24,30000000000000000",
+        "Índice de Precios Promedio": "31,40560000000000000",
+        "Salario mínimo real": "77,37"
+    },
+    {
+        "Año": 1998,
+        "Salario mínimo nominal": "31,91000000000000000",
+        "Índice de Precios Promedio": "36,40800000000000000",
+        "Salario mínimo real": "87,65"
+    },
+    {
+        "Año": 1999,
+        "Salario mínimo nominal": "31,91000000000000000",
+        "Índice de Precios Promedio": "42,44650000000000000",
+        "Salario mínimo real": "75,18"
+    },
+    {
+        "Año": 2000,
+        "Salario mínimo nominal": "35,12000000000000000",
+        "Índice de Precios Promedio": "46,47540000000000000",
+        "Salario mínimo real": "75,57"
+    },
+    {
+        "Año": 2001,
+        "Salario mínimo nominal": "37,57000000000000000",
+        "Índice de Precios Promedio": "49,43480000000000000",
+        "Salario mínimo real": "76,00"
+    },
+    {
+        "Año": 2002,
+        "Salario mínimo nominal": "39,74000000000000000",
+        "Índice de Precios Promedio": "51,92170000000000000",
+        "Salario mínimo real": "76,54"
+    },
+    {
+        "Año": 2003,
+        "Salario mínimo nominal": "41,53000000000000000",
+        "Índice de Precios Promedio": "54,28260000000000000",
+        "Salario mínimo real": "76,51"
+    },
+    {
+        "Año": 2004,
+        "Salario mínimo nominal": "43,29000000000000000",
+        "Índice de Precios Promedio": "56,82760000000000000",
+        "Salario mínimo real": "76,18"
+    },
+    {
+        "Año": 2005,
+        "Salario mínimo nominal": "45,24000000000000000",
+        "Índice de Precios Promedio": "59,09390000000000000",
+        "Salario mínimo real": "76,56"
+    },
+    {
+        "Año": 2006,
+        "Salario mínimo nominal": "47,05000000000000000",
+        "Índice de Precios Promedio": "61,23870000000000000",
+        "Salario mínimo real": "76,83"
+    },
+    {
+        "Año": 2007,
+        "Salario mínimo nominal": "48,88000000000000000",
+        "Índice de Precios Promedio": "63,66790000000000000",
+        "Salario mínimo real": "76,77"
+    },
+    {
+        "Año": 2008,
+        "Salario mínimo nominal": "50,84000000000000000",
+        "Índice de Precios Promedio": "66,93090000000000000",
+        "Salario mínimo real": "75,96"
+    },
+    {
+        "Año": 2009,
+        "Salario mínimo nominal": "53,19000000000000000",
+        "Índice de Precios Promedio": "70,47650000000000000",
+        "Salario mínimo real": "75,47"
+    },
+    {
+        "Año": 2010,
+        "Salario mínimo nominal": "57,46000000000000000",
+        "Índice de Precios Promedio": "73,40600000000000000",
+        "Salario mínimo real": "78,28"
+    },
+    {
+        "Año": 2011,
+        "Salario mínimo nominal": "59,82000000000000000",
+        "Índice de Precios Promedio": "75,90720000000000000",
+        "Salario mínimo real": "78,81"
+    },
+    {
+        "Año": 2012,
+        "Salario mínimo nominal": "62,33000000000000000",
+        "Índice de Precios Promedio": "79,02810000000000000",
+        "Salario mínimo real": "78,87"
+    },
+    {
+        "Año": 2013,
+        "Salario mínimo nominal": "64,76000000000000000",
+        "Índice de Precios Promedio": "82,03620000000000000",
+        "Salario mínimo real": "78,94"
+    },
+    {
+        "Año": 2014,
+        "Salario mínimo nominal": "67,29000000000000000",
+        "Índice de Precios Promedio": "85,33300000000000000",
+        "Salario mínimo real": "78,86"
+    },
+    {
+        "Año": 2015,
+        "Salario mínimo nominal": "70,10000000000000000",
+        "Índice de Precios Promedio": "87,65460000000000000",
+        "Salario mínimo real": "79,97"
+    },
+    {
+        "Año": 2016,
+        "Salario mínimo nominal": "73,04000000000000000",
+        "Índice de Precios Promedio": "90,12790000000000000",
+        "Salario mínimo real": "81,04"
+    },
+    {
+        "Año": 2017,
+        "Salario mínimo nominal": "88,36000000000000000",
+        "Índice de Precios Promedio": "95,57300000000000000",
+        "Salario mínimo real": "92,45"
+    },
+    {
+        "Año": 2018,
+        "Salario mínimo nominal": "88,36000000000000000",
+        "Índice de Precios Promedio": "100,25500000000000000",
+        "Salario mínimo real": "88,14"
+    },
+    {
+        "Año": 2019,
+        "Salario mínimo nominal": "102,68000000000000000",
+        "Índice de Precios Promedio": "103,47600000000000000",
+        "Salario mínimo real": "99,23"
+    }
+]
